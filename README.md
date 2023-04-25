@@ -2,7 +2,7 @@
 In this project, you can only use your eyes to move the mouse and of course click. 
 In this project, Mediapipe is used to extract the landmarks of the eyes and move the eyes and, of course, the closing or opening of the eyelids, and with these landmarks and communication with the operating system through the PyAutoGUI package, we move the mouse and We click.
 # Test Video
-
+![](eye_mouse.gif)
 # Installation 
 * pip install opencv-python
 * pip install mediapipe
