@@ -7,4 +7,7 @@ In this project, Mediapipe is used to extract the landmarks of the eyes and move
 * pip install opencv-python
 * pip install mediapipe
 * pip install PyAutoGUI
-* If use this project in MacOS or linux [check this link](https://pypi.org/project/PyAutoGUI/)
+* If use MacOS or linux [check this link](https://pypi.org/project/PyAutoGUI/)
+
+# Use
+just check webcam connection and run main.py 
